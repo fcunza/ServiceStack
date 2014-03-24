@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceStackDiary", "ServiceStackDiary\ServiceStackDiary.csproj", "{34D514A0-AC99-4573-AB05-57C0D62B851B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diary.DataAccess", "Diary.DataAccess\Diary.DataAccess.csproj", "{788CF3F0-9318-4EA4-B906-9A4279485F9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcDiary", "MvcDiary\MvcDiary.csproj", "{F250626D-4159-4FE9-A917-23A292BB52D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34D514A0-AC99-4573-AB05-57C0D62B851B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34D514A0-AC99-4573-AB05-57C0D62B851B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34D514A0-AC99-4573-AB05-57C0D62B851B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34D514A0-AC99-4573-AB05-57C0D62B851B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{788CF3F0-9318-4EA4-B906-9A4279485F9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{788CF3F0-9318-4EA4-B906-9A4279485F9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{788CF3F0-9318-4EA4-B906-9A4279485F9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{788CF3F0-9318-4EA4-B906-9A4279485F9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F250626D-4159-4FE9-A917-23A292BB52D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F250626D-4159-4FE9-A917-23A292BB52D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F250626D-4159-4FE9-A917-23A292BB52D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F250626D-4159-4FE9-A917-23A292BB52D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

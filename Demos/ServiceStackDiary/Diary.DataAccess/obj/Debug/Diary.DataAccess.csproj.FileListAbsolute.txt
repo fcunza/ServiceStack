@@ -1,0 +1,20 @@
+c:\users\user\documents\visual studio 2013\Projects\ServiceStackDiary\Diary.DataAccess\bin\Debug\Diary.DataAccess.dll
+c:\users\user\documents\visual studio 2013\Projects\ServiceStackDiary\Diary.DataAccess\bin\Debug\Diary.DataAccess.pdb
+c:\users\user\documents\visual studio 2013\Projects\ServiceStackDiary\Diary.DataAccess\obj\Debug\Diary.DataAccess.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\ServiceStackDiary\Diary.DataAccess\obj\Debug\Diary.DataAccess.dll
+c:\users\user\documents\visual studio 2013\Projects\ServiceStackDiary\Diary.DataAccess\obj\Debug\Diary.DataAccess.pdb
+c:\users\user\documents\visual studio 2013\Projects\ServiceStackDiary\Diary.DataAccess\bin\Debug\Diary.DataAccess.dll.config
+c:\users\user\documents\visual studio 2013\Projects\ServiceStackDiary\Diary.DataAccess\bin\Debug\EntityFramework.dll
+c:\users\user\documents\visual studio 2013\Projects\ServiceStackDiary\Diary.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\user\documents\visual studio 2013\Projects\ServiceStackDiary\Diary.DataAccess\bin\Debug\EntityFramework.xml
+c:\users\user\documents\visual studio 2013\Projects\ServiceStackDiary\Diary.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\Develop\Repository\GitHub\ServiceStack\Demos\ServiceStackDiary\Diary.DataAccess\bin\Debug\Diary.DataAccess.dll.config
+D:\Develop\Repository\GitHub\ServiceStack\Demos\ServiceStackDiary\Diary.DataAccess\bin\Debug\Diary.DataAccess.dll
+D:\Develop\Repository\GitHub\ServiceStack\Demos\ServiceStackDiary\Diary.DataAccess\bin\Debug\Diary.DataAccess.pdb
+D:\Develop\Repository\GitHub\ServiceStack\Demos\ServiceStackDiary\Diary.DataAccess\bin\Debug\EntityFramework.dll
+D:\Develop\Repository\GitHub\ServiceStack\Demos\ServiceStackDiary\Diary.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\Develop\Repository\GitHub\ServiceStack\Demos\ServiceStackDiary\Diary.DataAccess\bin\Debug\EntityFramework.xml
+D:\Develop\Repository\GitHub\ServiceStack\Demos\ServiceStackDiary\Diary.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\Develop\Repository\GitHub\ServiceStack\Demos\ServiceStackDiary\Diary.DataAccess\obj\Debug\Diary.DataAccess.csprojResolveAssemblyReference.cache
+D:\Develop\Repository\GitHub\ServiceStack\Demos\ServiceStackDiary\Diary.DataAccess\obj\Debug\Diary.DataAccess.dll
+D:\Develop\Repository\GitHub\ServiceStack\Demos\ServiceStackDiary\Diary.DataAccess\obj\Debug\Diary.DataAccess.pdb

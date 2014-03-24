@@ -1,0 +1,12 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Diary</h2>
+@if (!Request.IsAuthenticated)
+{
+    <div>
+        @{ Html.RenderPartial("Shared/_Login"); }
+        @{ Html.RenderPartial("Shared/_Register"); }
+    </div>
+}

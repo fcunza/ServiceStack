@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="services/DiaryService" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\Develop\\Repository\\GitHub\\ServiceStack\\Demos\\ServiceStackDiary\\ServiceStackDiary\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^D:\\Develop\\Repository\\GitHub\\ServiceStack\\Demos\\ServiceStackDiary\\ServiceStackDiary\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="Diary-Web.config Connection String" description="" value="Server=.\dba; Database=diary; Trusted_Connection=True" tags="">
+    <parameterEntry kind="XmlFile" scope="D:\\Develop\\Repository\\GitHub\\ServiceStack\\Demos\\ServiceStackDiary\\ServiceStackDiary\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='Diary']/@connectionString" />
+  </parameter>
+</parameters>

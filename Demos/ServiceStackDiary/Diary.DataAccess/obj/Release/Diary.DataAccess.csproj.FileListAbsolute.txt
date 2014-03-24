@@ -1,0 +1,9 @@
+D:\Develop\Repository\GitHub\ServiceStack\Demos\ServiceStackDiary\Diary.DataAccess\bin\Release\Diary.DataAccess.dll.config
+D:\Develop\Repository\GitHub\ServiceStack\Demos\ServiceStackDiary\Diary.DataAccess\bin\Release\Diary.DataAccess.dll
+D:\Develop\Repository\GitHub\ServiceStack\Demos\ServiceStackDiary\Diary.DataAccess\bin\Release\Diary.DataAccess.pdb
+D:\Develop\Repository\GitHub\ServiceStack\Demos\ServiceStackDiary\Diary.DataAccess\bin\Release\EntityFramework.dll
+D:\Develop\Repository\GitHub\ServiceStack\Demos\ServiceStackDiary\Diary.DataAccess\bin\Release\EntityFramework.SqlServer.dll
+D:\Develop\Repository\GitHub\ServiceStack\Demos\ServiceStackDiary\Diary.DataAccess\bin\Release\EntityFramework.xml
+D:\Develop\Repository\GitHub\ServiceStack\Demos\ServiceStackDiary\Diary.DataAccess\bin\Release\EntityFramework.SqlServer.xml
+D:\Develop\Repository\GitHub\ServiceStack\Demos\ServiceStackDiary\Diary.DataAccess\obj\Release\Diary.DataAccess.dll
+D:\Develop\Repository\GitHub\ServiceStack\Demos\ServiceStackDiary\Diary.DataAccess\obj\Release\Diary.DataAccess.pdb
